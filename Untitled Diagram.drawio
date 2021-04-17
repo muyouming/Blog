@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T11:19:24.981Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="2I_5u0a-o7RpiTKEVLke" version="14.6.1" type="github"><diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">7Vptj6I6FP41flwDFBA+rs7O3pvsbCZ3NzsfTYWKjYWaUkfn/vo9hQpYnFkzo6AbSdRyeujLec5z2h4coEm6/SrwavHAY8IGjhVvB+hu4Di2awXwoyQvpcQPw1KQCBprpVrwg/5PtNDS0jWNSb6nKDlnkq72hRHPMhLJPRkWgm/21eac7fe6wglpCX5EmLWlTzSWCy21Lauu+IfQZKG7DjxdMcPRMhF8nen+Bg6aF1dZneJdW1o/X+CYbxoi9GWAJoJzWZbS7YQwZdud2crn7l+prcYtSCaPecAPSTQn88iLXJu4TvTJ1sjl8mVnDBKDbfRtxjP4GRczJKoNC+4WMmVQtKHI8IywcWWECWdc1I+RLP6s0KkluRR8WdkYpj+e80ze45Qy5Tq/iIhxhrVY+4kanzlLPfGcr0VEXpuadiQsEiJf0UGljppyo2Ftu6+Ep0SKF1AQhGFJn/fdBWuvSyq92vJQ0MY/FoiyzWfM1mTnSwYwNC3c+Aj7126IxvqpO5omMChGZ/AdMbqaYiGhmBG54WJJM1X7RGGiJM+n//G1JGJqO8EWPsMV1Da9QHVdubJyiYinNNLlwxj/GcxnIiTZvgmDrnVHmk463Li+V95vavIGWmXRpK11BuCcFnD/ZmA7sGsPAE4YX8fngU2P9ZHnVFKegTAiaqJQoZCjEE2/GQqSr6AWM5ocVP+sK2ZcSp5CxRlcA9am/lzDDv/a4IqOCK7OxQRX1OLoPUS6DVZPdc7RXddd0VSUXv4qS1Max2r2FVEZmcsDNK30zkBTJ+yRpm7LO37iGesqfgO4K7XY5lCmj/hM0fvjkHnWPmQjq0fIvBZkj5Pu4XrgGZVcTH/yzeVulmxvHze/zxXRb+MmaLEt6Bw83fG1wOb2CdvoIuj2BEtoLrFati4VtREyyDbqEbWghdoDn1GAqxPkJJwkwfjpOoNNRLHVUOvbAraqlwpeYKxwntcjeGELvG94pQ5UndPuO5EzzpcfQa0xAqu4DuNJGWto3hfXgQ2uuj/U4ilcwDaibp+bnN1Y/g4fOCdzkWPsTe0+YTsildcAyvD6SXEdYo4fBPYYQU0icExJzQF9/N+J7+B8GemzXcaFmv8BCACtlRpMuk1UTn+oj6j5UMXsKaPZcloe3D+SkTgq//AOQr+ZmtB7zDdTE7qdP6YmGv5TvQxoOlAlPDqHoft45LD7bDiwsfSg0PDMcsb6qdo5Ww25RkOO2VBpllZDhZdXE3+n47dToTfHf5fjF3raaAfe8RzDAu8aWWCEcTewh6Hne449QqGNLO+dnDCSTZ4VDC0XuaPA8a3AD41mz8mQdiLyxpAOl4bdtuC6WGGcKd3wNKwIDFbYvbGinYC9saJDVrjXSArXjOmnIUVoNOv0Rop2ivtGig5JMbpGUnhmSD8JKcw3Px7qjRTt9wc3UnRIiuAaSeGbIf00pDAyhZ7bGynab2dupOiQFOE1ksI8EqPTkMI4wHveeUgBt/V/Zkv1+o/J6Mtv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-17T11:51:33.682Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="gxXWNMv9rNDjbYZxTTQF" version="14.6.1" type="github">
+  <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
+    <mxGraphModel dx="1129" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69ecfefc5c41e42c-1" target="tUlvsMlFC8BYGPRKjIjs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69ecfefc5c41e42c-1" target="tUlvsMlFC8BYGPRKjIjs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="470" y="465" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-2" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="470" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-19" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" target="69ecfefc5c41e42c-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="tUlvsMlFC8BYGPRKjIjs-5" target="69ecfefc5c41e42c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tUlvsMlFC8BYGPRKjIjs-10" target="69ecfefc5c41e42c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-1" value="光猫" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" vertex="1" parent="1">
+          <mxGeometry x="485" y="290" width="50" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-10" value="Eth2 IPTV口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="tUlvsMlFC8BYGPRKjIjs-1" target="tUlvsMlFC8BYGPRKjIjs-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="309.5" as="sourcePoint" />
+            <mxPoint x="660" y="279.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-5" value="Eth1 网络口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="tUlvsMlFC8BYGPRKjIjs-1" target="tUlvsMlFC8BYGPRKjIjs-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="329" as="sourcePoint" />
+            <mxPoint x="510" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-14" value="WAN口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-15" value="NAS&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/windows8_icons/26/nas.png" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-17" value="LAN口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tUlvsMlFC8BYGPRKjIjs-19" target="tUlvsMlFC8BYGPRKjIjs-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="954" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-19" value="斐讯N1刷了CoreELEC" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/iphone-7-airpods-icons/24/apple-tv-box-128.png" vertex="1" parent="1">
+          <mxGeometry x="669.5" y="370" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-21" value="LAN口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-23" value="电视" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
+          <mxGeometry x="900" y="190" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-25" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="400" y="660" as="sourcePoint" />
+            <mxPoint x="500" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-26" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="310" y="660" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-27" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="535" y="560" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-28" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="550" y="674" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="tUlvsMlFC8BYGPRKjIjs-30" value="LAN口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="465" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
